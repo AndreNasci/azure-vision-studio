@@ -1,0 +1,8 @@
+ao ar livre (99.89%)
+grama (98.32%)
+árvore (96.61%)
+planta (96.08%)
+céu (95.19%)
+edifício (89.87%)
+arquitetura (62.22%)
+parque (45.66%)

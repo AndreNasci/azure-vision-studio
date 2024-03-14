@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "63942f6b-81f4-4cb5-a750-347f5df38d10",
+  "content-length": "157",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a bus driving under a bridge",
+    "confidence": 0.7286376357078552
+  },
+  "metadata": {
+    "width": 7008,
+    "height": 4672
+  }
+}

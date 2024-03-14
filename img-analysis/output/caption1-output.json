@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "dfa60821-e76c-4fe4-a7a5-2d0f2de7ac3e",
+  "content-length": "180",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a woman and child on a beach with birds flying over",
+    "confidence": 0.7624772191047668
+  },
+  "metadata": {
+    "width": 5875,
+    "height": 7834
+  }
+}

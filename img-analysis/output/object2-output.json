@@ -1,0 +1,13 @@
+{
+  "apim-request-id": "903b6cfe-7958-4771-810f-832ac3253671",
+  "content-length": "99",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 5680,
+    "height": 3675
+  },
+  "objectsResult": {
+    "values": []
+  }
+}

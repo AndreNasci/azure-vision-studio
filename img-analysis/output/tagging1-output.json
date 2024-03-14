@@ -1,0 +1,74 @@
+{
+  "apim-request-id": "fb44fc1b-fe38-4449-ad29-bf66e4d46c53",
+  "content-length": "897",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1600,
+    "height": 1200
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "ao ar livre",
+        "confidence": 0.9982398748397827
+      },
+      {
+        "name": "texto",
+        "confidence": 0.9953311085700989
+      },
+      {
+        "name": "veículo terrestre",
+        "confidence": 0.9949911832809448
+      },
+      {
+        "name": "veículo",
+        "confidence": 0.9944077730178833
+      },
+      {
+        "name": "árvore",
+        "confidence": 0.9783101081848145
+      },
+      {
+        "name": "céu",
+        "confidence": 0.9594006538391113
+      },
+      {
+        "name": "estrada",
+        "confidence": 0.956109881401062
+      },
+      {
+        "name": "roda",
+        "confidence": 0.9488276243209839
+      },
+      {
+        "name": "placa de identificação veicular",
+        "confidence": 0.9357641935348511
+      },
+      {
+        "name": "meio de transporte",
+        "confidence": 0.8894063234329224
+      },
+      {
+        "name": "ônibus",
+        "confidence": 0.8610984086990356
+      },
+      {
+        "name": "transporte",
+        "confidence": 0.8578569889068604
+      },
+      {
+        "name": "rua",
+        "confidence": 0.8438739776611328
+      },
+      {
+        "name": "carro",
+        "confidence": 0.8322541117668152
+      },
+      {
+        "name": "van",
+        "confidence": 0.6555733680725098
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "apim-request-id": "709780b1-6ff7-4c13-bb0c-8874220e4208",
+  "content-length": "507",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 1600,
+    "height": 1200
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "ao ar livre",
+        "confidence": 0.9989390969276428
+      },
+      {
+        "name": "grama",
+        "confidence": 0.9832192659378052
+      },
+      {
+        "name": "árvore",
+        "confidence": 0.9660689830780029
+      },
+      {
+        "name": "planta",
+        "confidence": 0.9607503414154053
+      },
+      {
+        "name": "céu",
+        "confidence": 0.9519498348236084
+      },
+      {
+        "name": "edifício",
+        "confidence": 0.8986921310424805
+      },
+      {
+        "name": "arquitetura",
+        "confidence": 0.6222094297409058
+      },
+      {
+        "name": "parque",
+        "confidence": 0.45662355422973633
+      }
+    ]
+  }
+}
